@@ -11,6 +11,5 @@ public class TesteBiblioteca {
         c.deposita(200.3);
 
         System.out.println(c.getSaldo());
-
     }
 }
